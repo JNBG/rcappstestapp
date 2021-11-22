@@ -1,0 +1,16 @@
+{
+    "id": "73d6d478-7a25-4c7b-adfb-6db1543ade89",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "test",
+        "homepage": "test",
+        "support": "test"
+    },
+    "name": "Testapp",
+    "nameSlug": "testapp",
+    "classFile": "TestappApp.ts",
+    "description": "Test",
+    "implements": []
+}
