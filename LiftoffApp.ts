@@ -13,7 +13,7 @@ export class LiftoffApp extends App {
         super(info, logger, accessors);
     }
 
-    protected async extendConfiguration(configuration: IConfigurationExtend): Promise<void> {
-        await configuration.slashCommands.provideSlashCommand(new LiftoffCommand(this));
-    }
+    // protected async extendConfiguration(configuration: IConfigurationExtend): Promise<void> {
+    //     await configuration.slashCommands.provideSlashCommand(new LiftoffCommand(this));
+    // }
 }

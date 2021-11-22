@@ -8,9 +8,9 @@
         "homepage": "test",
         "support": "test"
     },
-    "name": "Testapp",
-    "nameSlug": "testapp",
-    "classFile": "TestappApp.ts",
+    "name": "LiftoffApp",
+    "nameSlug": "liftoffapp",
+    "classFile": "LiftoffApp.ts",
     "description": "Test",
     "implements": []
 }
